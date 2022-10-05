@@ -1,0 +1,22 @@
+{
+  "name": "cypress-await-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.19.3",
+    "@babel/preset-env": "^7.19.3",
+    "@cypress/webpack-preprocessor": "^5.14.0",
+    "babel-loader": "^8.2.5",
+    "cypress": "^10.9.0",
+    "cypress-thenify": "^0.2.0",
+    "prettier": "^2.7.1",
+    "webpack": "^5.74.0"
+  }
+}
